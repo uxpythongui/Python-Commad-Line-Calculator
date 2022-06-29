@@ -1,4 +1,4 @@
-# Python-Commad-Line-Calculator
+# Python Commad Line Calculator
 A simple command-line calculator program using Python Programming Language - UXPython.com
 
 Website : <a href="https://www.uxpython.com">UX Python</a><br>
